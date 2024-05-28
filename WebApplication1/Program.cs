@@ -11,6 +11,9 @@ var app = builder.Build();
 
 //TEST COMMIT
 // Configure the HTTP request pipeline.
+
+//TEST COMMIT
+// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
